@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```bash
 # install dependencies
-npm install
+npm OR yarn
 
 # serve with hot reload at localhost:3000
-npm run dev
+npm start OR yarn start
 
-# build electron application for production
-npm run build
+# build website for production
+npm build OR yarn build
 
 
 ```
